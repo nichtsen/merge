@@ -15,3 +15,5 @@ supposed to be merged.
 
 ## Encoding
 UTF-8 UCS-2
+### Reference
+[Unicode Standard](https://www.unicode.org/standard/standard.html)
